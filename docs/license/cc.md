@@ -1,5 +1,5 @@
 ---
-title: Creative Commons
+title: "Creative Commons"
 description:
 published: true
 date: "2023-01-25T17:37:00"
@@ -15,11 +15,11 @@ Creative Commons（创意共享，以下简称为 CC）是 2001 年成立的非�
 软件可以轻易的将许可证放进软件的文件夹内，或者直接在软件中展示，但图片、文本视频等文件通常都是单个的，
 使用软件许可证的方式并不合理，所以团队在研究给作品标记的方法。
 
-最后根据当时流行的 88 × 31 等大小的横幅，设计了多种标识。
+最后根据当时流行的 88 × 31 等大小的按钮，设计了多种标识。
 
 ## 图鉴
 
-CC 的横幅有两个大版本，分别是早期 CC 无印到 2.0 时期，以及 3.0 之后。
+CC 的按钮有两个大版本，分别是早期 CC 无印到 2.0 时期，以及 3.0 之后。
 
 ### 无印到 2.0
 
@@ -120,7 +120,7 @@ CC 的横幅有两个大版本，分别是早期 CC 无印到 2.0 时期，以�
 ### 3.0 之后
 
 2008年12月，Internet Archive 保存了 [http://creativecommons.org/about/downloads/][] 这个素材页面，
-其中 "Buttons" 部分就有 12 个 88 × 31，以及 8 个 80 × 15 的横幅。
+其中 "Buttons" 部分就有 12 个 88 × 31，以及 8 个 80 × 15 的按钮。
 
 [http://creativecommons.org/about/downloads/]: https://web.archive.org/web/20081215041054/http://creativecommons.org/about/downloads/
 
