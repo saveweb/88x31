@@ -144,12 +144,28 @@ CC 的横幅有两个大版本，分别是早期 CC 无印到 2.0 时期，以�
 ![08-3_6](/src/license/cc/20081215041054/3_6.png){ style="image-rendering: pixelated" }
 ![08-4_1](/src/license/cc/20081215041054/4_1.png){ style="image-rendering: pixelated" }
 ![08-4_2](/src/license/cc/20081215041054/4_2.png){ style="image-rendering: pixelated" }
+{ align=center }
 
 但页面上提供的下载地址并不是 88 × 31 的大小，而是更大的高清版本。
+
+---
 
 [2009年6月]，Internet Archive 检测到了此页面修改，因为添加了 CC 0 的两张图片：
 
 [2009年6月]: https://web.archive.org/web/20090622064706/http://creativecommons.org/about/downloads
 
-![cc0_88x31](/src/license/cc/20081215041054/cc0_88x31.png){ style="image-rendering: pixelated" }
-![cc0_80x15](/src/license/cc/20081215041054/cc0_80x15.png){ style="image-rendering: pixelated" }
+![cc0_88x31](/src/license/cc/20090622064706/cc0_88x31.png){ style="image-rendering: pixelated" }
+<br>
+![cc0_80x15](/src/license/cc/20090622064706/cc0_80x15.png){ style="image-rendering: pixelated" }
+{ align=center }
+
+[2011年1月]，CC 0 的图片被替换，因为新增了 CC0 NC 的协议：
+
+[2011年1月]: https://web.archive.org/web/20110102023053/http://creativecommons.org:80/about/downloads/
+
+![cc0_88x31](/src/license/cc/20110102023053/cc0_88x31.png){ style="image-rendering: pixelated" }
+![cc0nc_88x31](/src/license/cc/20110102023053/cc0nc_88x31.png){ style="image-rendering: pixelated" }
+<br>
+![cc0_80x15](/src/license/cc/20110102023053/cc0_80x15.png){ style="image-rendering: pixelated" }
+![cc0nc_80x15](/src/license/cc/20110102023053/cc0nc_80x15.png){ style="image-rendering: pixelated" }
+{ align=center }
