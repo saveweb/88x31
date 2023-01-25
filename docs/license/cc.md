@@ -25,52 +25,52 @@ CC 的横幅有两个大版本，分别是早期 CC 无印到 2.0 时期，以�
 
 下面的「IA 最早记录」的时间数据来自：<https://web.archive.org/web/*/http://creativecommons.org/images/public/*>。
 
-| IA 最早记录 | 图片                                                           | 大小     | 文字                                  |
-| ----------- | -------------------------------------------------------------- | -------- | ------------------------------------- |
-| 2005-05-05  | ![cc-GPL.gif][]{ style="image-rendering: pixelated" }          | 88 × 31  | cc GPL                                |
-| 2004-07-24  | ![cc-GPL.png][]{ style="image-rendering: pixelated" }          | 82 × 66  | GNU GPL cc                            |
-| 2005-05-05  | ![cc-GPL-a.png][]{ style="image-rendering: pixelated" }        | 88 × 62  | GNU GPL cc<br>SOME RIGHTS RESERVED    |
-|             | ![cc-LGPL.gif][]{ style="image-rendering: pixelated" }         | 88 × 31  | cc LGPL                               |
-| 2007-02-08  | ![cc-LGPL.png][]{ style="image-rendering: pixelated" }         | 82 × 66  | GNU LGPL cc                           |
-| 2004-09-05  | ![cc-LGPL-a.png][]{ style="image-rendering: pixelated" }       | 88 × 62  | GNU LGPL cc<br>SOME RIGHTS RESERVED   |
-|             | ![cc-wiki.gif][]{ style="image-rendering: pixelated" }         | 50 × 68  | cc-wiki cc<br>SOME RIGHTS<br>RESERVED |
-| 2006-02-02  | ![cc-wiki.png][]{ style="image-rendering: pixelated" }         | 50 × 68  | cc-wiki cc<br>SOME RIGHTS<br>RESERVED |
-| 2005-12-16  | ![mashme.gif][]{ style="image-rendering: pixelated" }          | 88 × 62  | mash<br>me cc<br>SOME RIGHTS RESERVED     |
-|             | ![mashme.pt.gif][]{ style="image-rendering: pixelated" }       | 88 × 62  | recom<br>bine cc<br>（看不清……）          |
-| 2013-01-13  | ![mashme.pt.png][]{ style="image-rendering: pixelated" }       | 88 × 62  |                                       |
-| 2004-11-20  | ![music.gif][]{ style="image-rendering: pixelated" }           | 50 × 68  |                                       |
-| 2013-01-13  | ![music.png][]{ style="image-rendering: pixelated" }           | 50 × 68  |                                       |
-| 2003-02-22  | ![norights][]{ style="image-rendering: pixelated" }            | 88 × 31  |                                       |
-| 2002-12-19  | ![norights.gif][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
-| 2003-11-11  | ![norights.png][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
-|             | ![norights.pt.gif][]{ style="image-rendering: pixelated" }     | 88 × 31  |                                       |
-| 2013-01-13  | ![norights.pt.png][]{ style="image-rendering: pixelated" }     | 88 × 31  |                                       |
-| 2005-04-08  | ![norights-a.gif][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
-| 2005-05-08  | ![norights-a.png][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
-| 2005-05-09  | ![recombo.gif][]{ style="image-rendering: pixelated" }         | 88 × 62  |                                       |
-| 2006-07-03  | ![recombo.png][]{ style="image-rendering: pixelated" }         | 88 × 62  |                                       |
-|             | ![recombo.pt.gif][]{ style="image-rendering: pixelated" }      | 88 × 62  |                                       |
-| 2013-01-13  | ![recombo.pt.png][]{ style="image-rendering: pixelated" }      | 88 × 62  |                                       |
-| 2005-05-09  | ![sampleme.gif][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
-| 2005-02-15  | ![sampling.gif][]{ style="image-rendering: pixelated" }        | 88 × 62  |                                       |
-| 2005-05-09  | ![sampling.png][]{ style="image-rendering: pixelated" }        | 88 × 62  |                                       |
-| 2006-05-11  | ![sampling.pt.gif][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
-|             | ![sampling.pt.png][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
-| 2003-02-01  | ![somerights][]{ style="image-rendering: pixelated" }          | 88 × 31  |                                       |
-| 2003-02-08  | ![somerights.gif][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
-| 2003-10-20  | ![somerights.png][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
-|             | ![somerights2.gif][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
-| 2005-05-09  | ![somerights2.png][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
-| 2004-06-17  | ![somerights20][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
-| 2004-06-02  | ![somerights20.gif][]{ style="image-rendering: pixelated" }    | 88 × 31  |                                       |
-| 2005-01-19  | ![somerights20.png][]{ style="image-rendering: pixelated" }    | 88 × 31  |                                       |
-| 2014-05-19  | ![somerights20.es.gif][]{ style="image-rendering: pixelated" } | 88 × 41  |                                       |
-| 2006-05-12  | ![somerights20.es.png][]{ style="image-rendering: pixelated" } | 88 × 41  |                                       |
-| 2006-05-02  | ![somerights20.fr.gif][]{ style="image-rendering: pixelated" } | 99 × 33  |                                       |
-| 2005-10-12  | ![somerights20.fr.png][]{ style="image-rendering: pixelated" } | 99 × 33  |                                       |
-| 2006-02-06  | ![somerights20.pl.png][]{ style="image-rendering: pixelated" } | 105 × 34 |                                       |
-| 2005-02-06  | ![somerights20.pt.gif][]{ style="image-rendering: pixelated" } | 99 × 33  |                                       |
-| 2004-08-10  | ![somerights20.pt.png][]{ style="image-rendering: pixelated" } | 88 × 31  |                                       |
+| IA 最早记录 | 图片                                                           | 大小     | 文字（排除带圈的 cc）                       |
+| ----------- | -------------------------------------------------------------- | -------- | ------------------------------------------- |
+| 2005-05-05  | ![cc-GPL.gif][]{ style="image-rendering: pixelated" }          | 88 × 31  | GPL                                         |
+| 2004-07-24  | ![cc-GPL.png][]{ style="image-rendering: pixelated" }          | 82 × 66  | GNU GPL                                     |
+| 2005-05-05  | ![cc-GPL-a.png][]{ style="image-rendering: pixelated" }        | 88 × 62  | GNU GPL<br>SOME RIGHTS RESERVED             |
+|             | ![cc-LGPL.gif][]{ style="image-rendering: pixelated" }         | 88 × 31  | LGPL                                        |
+| 2007-02-08  | ![cc-LGPL.png][]{ style="image-rendering: pixelated" }         | 82 × 66  | GNU LGPL                                    |
+| 2004-09-05  | ![cc-LGPL-a.png][]{ style="image-rendering: pixelated" }       | 88 × 62  | GNU LGPL<br>SOME RIGHTS RESERVED            |
+|             | ![cc-wiki.gif][]{ style="image-rendering: pixelated" }         | 50 × 68  | cc-wiki<br>SOME RIGHTS<br>RESERVED          |
+| 2006-02-02  | ![cc-wiki.png][]{ style="image-rendering: pixelated" }         | 50 × 68  | cc-wiki<br>SOME RIGHTS<br>RESERVED          |
+| 2005-12-16  | ![mashme.gif][]{ style="image-rendering: pixelated" }          | 88 × 62  | mash<br>me<br>SOME RIGHTS RESERVED          |
+|             | ![mashme.pt.gif][]{ style="image-rendering: pixelated" }       | 88 × 62  | 〔葡萄牙语〕                                |
+| 2013-01-13  | ![mashme.pt.png][]{ style="image-rendering: pixelated" }       | 88 × 62  | 〔葡萄牙语〕                                |
+| 2004-11-20  | ![music.gif][]{ style="image-rendering: pixelated" }           | 50 × 68  | share<br>music<br>SOME RIGHTS<br>RESERVED   |
+| 2013-01-13  | ![music.png][]{ style="image-rendering: pixelated" }           | 50 × 68  | share<br>music<br>SOME RIGHTS<br>RESERVED   |
+| 2003-02-22  | ![norights][]{ style="image-rendering: pixelated" }            | 88 × 31  | NO RIGHTS RESERVED<br>creative<br>commons   |
+| 2002-12-19  | ![norights.gif][]{ style="image-rendering: pixelated" }        | 88 × 31  | NO RIGHTS RESERVED<br>creative<br>commons   |
+| 2003-11-11  | ![norights.png][]{ style="image-rendering: pixelated" }        | 88 × 31  | NO RIGHTS RESERVED<br>creative<br>commons   |
+|             | ![norights.pt.gif][]{ style="image-rendering: pixelated" }     | 88 × 31  | 〔葡萄牙语〕                                |
+| 2013-01-13  | ![norights.pt.png][]{ style="image-rendering: pixelated" }     | 88 × 31  | 〔葡萄牙语〕                                |
+| 2005-04-08  | ![norights-a.gif][]{ style="image-rendering: pixelated" }      | 88 × 31  | NO RIGHTS RESERVED                          |
+| 2005-05-08  | ![norights-a.png][]{ style="image-rendering: pixelated" }      | 88 × 31  | NO RIGHTS RESERVED                          |
+| 2005-05-09  | ![recombo.gif][]{ style="image-rendering: pixelated" }         | 88 × 62  | re<br>combo<br>SOME RIGHTS RESERVED         |
+| 2006-07-03  | ![recombo.png][]{ style="image-rendering: pixelated" }         | 88 × 62  | re<br>combo<br>SOME RIGHTS RESERVED         |
+|             | ![recombo.pt.gif][]{ style="image-rendering: pixelated" }      | 88 × 62  | 〔葡萄牙语〕                                |
+| 2013-01-13  | ![recombo.pt.png][]{ style="image-rendering: pixelated" }      | 88 × 62  | 〔葡萄牙语〕                                |
+| 2005-05-09  | ![sampleme.gif][]{ style="image-rendering: pixelated" }        | 88 × 31  | sample<br>me                                |
+| 2005-02-15  | ![sampling.gif][]{ style="image-rendering: pixelated" }        | 88 × 62  | sample<br>me<br>SOME RIGHTS RESERVED        |
+| 2005-05-09  | ![sampling.png][]{ style="image-rendering: pixelated" }        | 88 × 62  | sample<br>me<br>SOME RIGHTS RESERVED        |
+| 2006-05-11  | ![sampling.pt.gif][]{ style="image-rendering: pixelated" }     | 88 × 62  | 〔葡萄牙语〕                                |
+|             | ![sampling.pt.png][]{ style="image-rendering: pixelated" }     | 88 × 62  | 〔葡萄牙语〕                                |
+| 2003-02-01  | ![somerights][]{ style="image-rendering: pixelated" }          | 88 × 31  | SOME RIGHTS RESERVED<br>creative<br>commons |
+| 2003-02-08  | ![somerights.gif][]{ style="image-rendering: pixelated" }      | 88 × 31  | SOME RIGHTS RESERVED<br>creative<br>commons |
+| 2003-10-20  | ![somerights.png][]{ style="image-rendering: pixelated" }      | 88 × 31  | SOME RIGHTS RESERVED<br>creative<br>commons |
+|             | ![somerights2.gif][]{ style="image-rendering: pixelated" }     | 88 × 62  | SOME RIGHTS RESERVED                        |
+| 2005-05-09  | ![somerights2.png][]{ style="image-rendering: pixelated" }     | 88 × 62  | SOME RIGHTS RESERVED                        |
+| 2004-06-17  | ![somerights20][]{ style="image-rendering: pixelated" }        | 88 × 31  | SOME RIGHTS RESERVED                        |
+| 2004-06-02  | ![somerights20.gif][]{ style="image-rendering: pixelated" }    | 88 × 31  | SOME RIGHTS RESERVED                        |
+| 2005-01-19  | ![somerights20.png][]{ style="image-rendering: pixelated" }    | 88 × 31  | SOME RIGHTS RESERVED                        |
+| 2014-05-19  | ![somerights20.es.gif][]{ style="image-rendering: pixelated" } | 88 × 41  | 〔西班牙语〕                                |
+| 2006-05-12  | ![somerights20.es.png][]{ style="image-rendering: pixelated" } | 88 × 41  | 〔西班牙语〕                                |
+| 2006-05-02  | ![somerights20.fr.gif][]{ style="image-rendering: pixelated" } | 99 × 33  | 〔法语〕                                    |
+| 2005-10-12  | ![somerights20.fr.png][]{ style="image-rendering: pixelated" } | 99 × 33  | 〔法语〕                                    |
+| 2006-02-06  | ![somerights20.pl.png][]{ style="image-rendering: pixelated" } | 105 × 34 | 〔波兰语〕                                  |
+| 2005-02-06  | ![somerights20.pt.gif][]{ style="image-rendering: pixelated" } | 99 × 33  | 〔葡萄牙语〕                                |
+| 2004-08-10  | ![somerights20.pt.png][]{ style="image-rendering: pixelated" } | 88 × 31  | 〔葡萄牙语〕                                |
 
 [cc-GPL-a.png]: /src/license/cc/ip/cc-GPL-a.png "cc-GPL.gif"
 [cc-GPL.gif]: /src/license/cc/ip/cc-GPL.gif "cc-GPL.png"
