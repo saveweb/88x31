@@ -1,6 +1,6 @@
 ---
 title: Creative Commons
-description: 收集一切 88 × 31 相关资料
+description:
 published: true
 date: "2023-01-25T17:37:00"
 dateCreated: "2023-01-25T17:37:00"
@@ -19,54 +19,58 @@ Creative Commons（创意共享，以下简称为 CC）是 2001 年成立的非�
 
 ## 图鉴
 
-下面是 Creative Commons 官网阶段1出现的相关标识：
+CC 的横幅有两个大版本，分别是早期 CC 无印到 2.0 时期，以及 3.0 之后。
 
-| IA 最早记录 | 图片                     | 大小     | 文字                                  |
-| ----------- | ------------------------ | -------- | ------------------------------------- |
-| 2005-05-05  | ![cc-GPL.gif][]          | 88 × 31  | cc GPL                                |
-| 2004-07-24  | ![cc-GPL.png][]          | 82 × 66  | GNU GPL cc                            |
-| 2005-05-05  | ![cc-GPL-a.png][]        | 88 × 62  | GNU GPL cc<br>SOME RIGHTS RESERVED    |
-|             | ![cc-LGPL.gif][]         | 88 × 31  | cc LGPL                               |
-| 2007-02-08  | ![cc-LGPL.png][]         | 82 × 66  | GNU LGPL cc                           |
-| 2004-09-05  | ![cc-LGPL-a.png][]       | 88 × 62  | GNU LGPL cc<br>SOME RIGHTS RESERVED   |
-|             | ![cc-wiki.gif][]         | 50 × 68  | cc-wiki cc<br>SOME RIGHTS<br>RESERVED |
-| 2006-02-02  | ![cc-wiki.png][]         | 50 × 68  | cc-wiki cc<br>SOME RIGHTS<br>RESERVED |
-| 2005-12-16  | ![mashme.gif][]          | 88 × 62  | mashme cc<br>SOME RIGHTS RESERVED     |
-|             | ![mashme.pt.gif][]       | 88 × 62  | recombine cc<br>（看不清……）          |
-| 2013-01-13  | ![mashme.pt.png][]       | 88 × 62  |                                       |
-| 2004-11-20  | ![music.gif][]           | 50 × 68  |                                       |
-| 2013-01-13  | ![music.png][]           | 50 × 68  |                                       |
-| 2003-02-22  | ![norights][]            | 88 × 31  |                                       |
-| 2002-12-19  | ![norights.gif][]        | 88 × 31  |                                       |
-| 2003-11-11  | ![norights.png][]        | 88 × 31  |                                       |
-|             | ![norights.pt.gif][]     | 88 × 31  |                                       |
-| 2013-01-13  | ![norights.pt.png][]     | 88 × 31  |                                       |
-| 2005-04-08  | ![norights-a.gif][]      | 88 × 31  |                                       |
-| 2005-05-08  | ![norights-a.png][]      | 88 × 31  |                                       |
-| 2005-05-09  | ![recombo.gif][]         | 88 × 62  |                                       |
-| 2006-07-03  | ![recombo.png][]         | 88 × 62  |                                       |
-|             | ![recombo.pt.gif][]      | 88 × 62  |                                       |
-| 2013-01-13  | ![recombo.pt.png][]      | 88 × 62  |                                       |
-| 2005-05-09  | ![sampleme.gif][]        | 88 × 31  |                                       |
-| 2005-02-15  | ![sampling.gif][]        | 88 × 62  |                                       |
-| 2005-05-09  | ![sampling.png][]        | 88 × 62  |                                       |
-| 2006-05-11  | ![sampling.pt.gif][]     | 88 × 62  |                                       |
-|             | ![sampling.pt.png][]     | 88 × 62  |                                       |
-| 2003-02-01  | ![somerights][]          | 88 × 31  |                                       |
-| 2003-02-08  | ![somerights.gif][]      | 88 × 31  |                                       |
-| 2003-10-20  | ![somerights.png][]      | 88 × 31  |                                       |
-|             | ![somerights2.gif][]     | 88 × 62  |                                       |
-| 2005-05-09  | ![somerights2.png][]     | 88 × 62  |                                       |
-| 2004-06-17  | ![somerights20][]        | 88 × 31  |                                       |
-| 2004-06-02  | ![somerights20.gif][]    | 88 × 31  |                                       |
-| 2005-01-19  | ![somerights20.png][]    | 88 × 31  |                                       |
-| 2014-05-19  | ![somerights20.es.gif][] | 88 × 41  |                                       |
-| 2006-05-12  | ![somerights20.es.png][] | 88 × 41  |                                       |
-| 2006-05-02  | ![somerights20.fr.gif][] | 99 × 33  |                                       |
-| 2005-10-12  | ![somerights20.fr.png][] | 99 × 33  |                                       |
-| 2006-02-06  | ![somerights20.pl.png][] | 105 × 34 |                                       |
-| 2005-02-06  | ![somerights20.pt.gif][] | 99 × 33  |                                       |
-| 2004-08-10  | ![somerights20.pt.png][] | 88 × 31  |                                       |
+### 无印到 2.0
+
+下面的「IA 最早记录」的时间数据来自：<https://web.archive.org/web/*/http://creativecommons.org/images/public/*>。
+
+| IA 最早记录 | 图片                                                           | 大小     | 文字                                  |
+| ----------- | -------------------------------------------------------------- | -------- | ------------------------------------- |
+| 2005-05-05  | ![cc-GPL.gif][]{ style="image-rendering: pixelated" }          | 88 × 31  | cc GPL                                |
+| 2004-07-24  | ![cc-GPL.png][]{ style="image-rendering: pixelated" }          | 82 × 66  | GNU GPL cc                            |
+| 2005-05-05  | ![cc-GPL-a.png][]{ style="image-rendering: pixelated" }        | 88 × 62  | GNU GPL cc<br>SOME RIGHTS RESERVED    |
+|             | ![cc-LGPL.gif][]{ style="image-rendering: pixelated" }         | 88 × 31  | cc LGPL                               |
+| 2007-02-08  | ![cc-LGPL.png][]{ style="image-rendering: pixelated" }         | 82 × 66  | GNU LGPL cc                           |
+| 2004-09-05  | ![cc-LGPL-a.png][]{ style="image-rendering: pixelated" }       | 88 × 62  | GNU LGPL cc<br>SOME RIGHTS RESERVED   |
+|             | ![cc-wiki.gif][]{ style="image-rendering: pixelated" }         | 50 × 68  | cc-wiki cc<br>SOME RIGHTS<br>RESERVED |
+| 2006-02-02  | ![cc-wiki.png][]{ style="image-rendering: pixelated" }         | 50 × 68  | cc-wiki cc<br>SOME RIGHTS<br>RESERVED |
+| 2005-12-16  | ![mashme.gif][]{ style="image-rendering: pixelated" }          | 88 × 62  | mash<br>me cc<br>SOME RIGHTS RESERVED     |
+|             | ![mashme.pt.gif][]{ style="image-rendering: pixelated" }       | 88 × 62  | recom<br>bine cc<br>（看不清……）          |
+| 2013-01-13  | ![mashme.pt.png][]{ style="image-rendering: pixelated" }       | 88 × 62  |                                       |
+| 2004-11-20  | ![music.gif][]{ style="image-rendering: pixelated" }           | 50 × 68  |                                       |
+| 2013-01-13  | ![music.png][]{ style="image-rendering: pixelated" }           | 50 × 68  |                                       |
+| 2003-02-22  | ![norights][]{ style="image-rendering: pixelated" }            | 88 × 31  |                                       |
+| 2002-12-19  | ![norights.gif][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
+| 2003-11-11  | ![norights.png][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
+|             | ![norights.pt.gif][]{ style="image-rendering: pixelated" }     | 88 × 31  |                                       |
+| 2013-01-13  | ![norights.pt.png][]{ style="image-rendering: pixelated" }     | 88 × 31  |                                       |
+| 2005-04-08  | ![norights-a.gif][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
+| 2005-05-08  | ![norights-a.png][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
+| 2005-05-09  | ![recombo.gif][]{ style="image-rendering: pixelated" }         | 88 × 62  |                                       |
+| 2006-07-03  | ![recombo.png][]{ style="image-rendering: pixelated" }         | 88 × 62  |                                       |
+|             | ![recombo.pt.gif][]{ style="image-rendering: pixelated" }      | 88 × 62  |                                       |
+| 2013-01-13  | ![recombo.pt.png][]{ style="image-rendering: pixelated" }      | 88 × 62  |                                       |
+| 2005-05-09  | ![sampleme.gif][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
+| 2005-02-15  | ![sampling.gif][]{ style="image-rendering: pixelated" }        | 88 × 62  |                                       |
+| 2005-05-09  | ![sampling.png][]{ style="image-rendering: pixelated" }        | 88 × 62  |                                       |
+| 2006-05-11  | ![sampling.pt.gif][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
+|             | ![sampling.pt.png][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
+| 2003-02-01  | ![somerights][]{ style="image-rendering: pixelated" }          | 88 × 31  |                                       |
+| 2003-02-08  | ![somerights.gif][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
+| 2003-10-20  | ![somerights.png][]{ style="image-rendering: pixelated" }      | 88 × 31  |                                       |
+|             | ![somerights2.gif][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
+| 2005-05-09  | ![somerights2.png][]{ style="image-rendering: pixelated" }     | 88 × 62  |                                       |
+| 2004-06-17  | ![somerights20][]{ style="image-rendering: pixelated" }        | 88 × 31  |                                       |
+| 2004-06-02  | ![somerights20.gif][]{ style="image-rendering: pixelated" }    | 88 × 31  |                                       |
+| 2005-01-19  | ![somerights20.png][]{ style="image-rendering: pixelated" }    | 88 × 31  |                                       |
+| 2014-05-19  | ![somerights20.es.gif][]{ style="image-rendering: pixelated" } | 88 × 41  |                                       |
+| 2006-05-12  | ![somerights20.es.png][]{ style="image-rendering: pixelated" } | 88 × 41  |                                       |
+| 2006-05-02  | ![somerights20.fr.gif][]{ style="image-rendering: pixelated" } | 99 × 33  |                                       |
+| 2005-10-12  | ![somerights20.fr.png][]{ style="image-rendering: pixelated" } | 99 × 33  |                                       |
+| 2006-02-06  | ![somerights20.pl.png][]{ style="image-rendering: pixelated" } | 105 × 34 |                                       |
+| 2005-02-06  | ![somerights20.pt.gif][]{ style="image-rendering: pixelated" } | 99 × 33  |                                       |
+| 2004-08-10  | ![somerights20.pt.png][]{ style="image-rendering: pixelated" } | 88 × 31  |                                       |
 
 [cc-GPL-a.png]: /src/license/cc/ip/cc-GPL-a.png "cc-GPL.gif"
 [cc-GPL.gif]: /src/license/cc/ip/cc-GPL.gif "cc-GPL.png"
@@ -112,3 +116,40 @@ Creative Commons（创意共享，以下简称为 CC）是 2001 年成立的非�
 [somerights20.pt.gif]: /src/license/cc/ip/somerights20.pt.gif "somerights20.pl.png"
 [somerights20.pt.png]: /src/license/cc/ip/somerights20.pt.png "somerights20.pt.gif"
 [somerights20]: /src/license/cc/ip/somerights20 "somerights20.pt.png"
+
+### 3.0 之后
+
+2008年12月，Internet Archive 保存了 [http://creativecommons.org/about/downloads/][] 这个素材页面，
+其中 "Buttons" 部分就有 12 个 88 × 31，以及 8 个 80 × 15 的横幅。
+
+[http://creativecommons.org/about/downloads/]: https://web.archive.org/web/20081215041054/http://creativecommons.org/about/downloads/
+
+![08-1_1](/src/license/cc/20081215041054/1_1.gif){ style="image-rendering: pixelated" }
+![08-1_2](/src/license/cc/20081215041054/1_2.png){ style="image-rendering: pixelated" }
+![08-1_3](/src/license/cc/20081215041054/1_3.png){ style="image-rendering: pixelated" }
+![08-1_4](/src/license/cc/20081215041054/1_4.png){ style="image-rendering: pixelated" }
+![08-1_5](/src/license/cc/20081215041054/1_5.png){ style="image-rendering: pixelated" }
+![08-1_6](/src/license/cc/20081215041054/1_6.png){ style="image-rendering: pixelated" }
+![08-2_1](/src/license/cc/20081215041054/2_1.png){ style="image-rendering: pixelated" }
+![08-2_2](/src/license/cc/20081215041054/2_2.png){ style="image-rendering: pixelated" }
+![08-2_3](/src/license/cc/20081215041054/2_3.png){ style="image-rendering: pixelated" }
+![08-2_4](/src/license/cc/20081215041054/2_4.png){ style="image-rendering: pixelated" }
+![08-2_5](/src/license/cc/20081215041054/2_5.png){ style="image-rendering: pixelated" }
+![08-2_6](/src/license/cc/20081215041054/2_6.png){ style="image-rendering: pixelated" }
+![08-3_1](/src/license/cc/20081215041054/3_1.png){ style="image-rendering: pixelated" }
+![08-3_2](/src/license/cc/20081215041054/3_2.png){ style="image-rendering: pixelated" }
+![08-3_3](/src/license/cc/20081215041054/3_3.png){ style="image-rendering: pixelated" }
+![08-3_4](/src/license/cc/20081215041054/3_4.png){ style="image-rendering: pixelated" }
+![08-3_5](/src/license/cc/20081215041054/3_5.png){ style="image-rendering: pixelated" }
+![08-3_6](/src/license/cc/20081215041054/3_6.png){ style="image-rendering: pixelated" }
+![08-4_1](/src/license/cc/20081215041054/4_1.png){ style="image-rendering: pixelated" }
+![08-4_2](/src/license/cc/20081215041054/4_2.png){ style="image-rendering: pixelated" }
+
+但页面上提供的下载地址并不是 88 × 31 的大小，而是更大的高清版本。
+
+[2009年6月]，Internet Archive 检测到了此页面修改，因为添加了 CC 0 的两张图片：
+
+[2009年6月]: https://web.archive.org/web/20090622064706/http://creativecommons.org/about/downloads
+
+![cc0_88x31](/src/license/cc/20081215041054/cc0_88x31.png){ style="image-rendering: pixelated" }
+![cc0_80x15](/src/license/cc/20081215041054/cc0_80x15.png){ style="image-rendering: pixelated" }
