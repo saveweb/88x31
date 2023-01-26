@@ -10,8 +10,10 @@ dateCreated: "2023-01-25T17:37:00"
 
 | 板块   | 文件夹       |
 | ------ | ------------ |
+| 存档   | [/archive][] |
 | 许可证 | [/license][] |
 
+[/archive]: /archive/index.md
 [/license]: /license/index.md
 
 ## 这是什么网站
@@ -35,4 +37,4 @@ dateCreated: "2023-01-25T17:37:00"
 
 ## 游客计数
 
-![网页游客计数器](https://count.getloli.com/get/@:88x31)
+![网页游客计数器](https://count.getloli.com/get/@:88x31){ .skip-lightbox }

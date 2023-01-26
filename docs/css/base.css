@@ -38,7 +38,7 @@ html>div>img {
     防止标题后的 # 被复制 */
 
 .md-typeset .headerlink {
-	user-select: none;
+    user-select: none;
 }
 
 /* -------------------- 分割线 -------------------- */
@@ -50,6 +50,7 @@ html>div>img {
 .md-typeset ol ol {
     list-style-type: decimal;
 }
+
 .md-typeset ul ol ol,
 .md-typeset ol ol ol {
     list-style-type: decimal;
@@ -69,6 +70,18 @@ html>div>img {
 }
 
 rtc,
-rt { font-size: 11px;
+rt {
+    font-size: 11px;
     line-height: 11px
-};
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/* 图片缩放时保持像素化 */
+
+img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
+}

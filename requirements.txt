@@ -3,6 +3,7 @@ mkdocs-blogging-plugin
 mkdocs-callouts
 mkdocs-exclude
 mkdocs-exclude-search
+mkdocs-glightbox
 mkdocs-material
 mkdocs-material-extensions
 mkdocs-minify-plugin
