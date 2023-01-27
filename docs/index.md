@@ -35,6 +35,28 @@ dateCreated: "2023-01-25T17:37:00"
 
 此网站收集关于此类型图片的资料，并不仅局限于 88 × 31 的大小。
 
+## 借物表
+
+网站使用了 MkDocs 搭建，包括主题 mkdocs-material 等，直接使用的软件、插件如下：
+
++   mkdocs-abs-rel-plugin
++   mkdocs-blogging-plugin
++   mkdocs-callouts
++   mkdocs-exclude
++   mkdocs-exclude-search
++   mkdocs-glightbox
++   mkdocs-material
++   mkdocs-material-extensions
++   mkdocs-minify-plugin
++   mkdocs-redirects
++   mkdocs-roamlinks-plugin
++   mkdocs-video
++   pymdown-extensions
+
+图片的放大、缩小按钮来自 [Jesse 的 Bookmarks 收集页面][]。
+
+[Jesse 的 Bookmarks 收集页面]: https://www.squarefree.com/bookmarklets/bookmarklets-ie.html
+
 ## 游客计数
 
 ![网页游客计数器](https://count.getloli.com/get/@:88x31){ .skip-lightbox }

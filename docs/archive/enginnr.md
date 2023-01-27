@@ -8,7 +8,7 @@ dateCreated: "2023-01-25T17:37:00"
 
 ## 简介
 
-Príomh Ó hÚigínn 是 Dribbble 网站的帐号，在 2013年3月22日 发布了 [Antipixel Buttons (80 x 15)][]，
+2013年3月22日，Dribbble 网站的帐号 Príomh Ó hÚigínn 发布了 [Antipixel Buttons (80 x 15)][]，
 这是一个包含 1000 个图标左右的压缩包。
 
 [Antipixel Buttons (80 x 15)]: https://dribbble.com/shots/997282-Antipixel-Buttons-80-x-15
@@ -20,6 +20,11 @@ Príomh Ó hÚigínn 是 Dribbble 网站的帐号，在 2013年3月22日 发布�
 压缩包里有 4 个文件夹，分别是：
 
 ### assorted
+
+<p>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i], 2); if (!L) alert(%22This page contains no images.%22); })();"><font style="vertical-align: inherit;">放大图像</font></a>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i],.5); if (!L) alert(%22This page contains no images.%22); })();">缩小图像</font></a>
+</p>
 
 ![010.png](/src/archive/enginnr/assorted/010.png)
 ![80x15_1.gif](/src/archive/enginnr/assorted/80x15_1.gif)
@@ -228,6 +233,7 @@ Príomh Ó hÚigínn 是 Dribbble 网站的帐号，在 2013年3月22日 发布�
 ![wmp1.gif](/src/archive/enginnr/assorted/wmp1.gif)
 ![xhtmlvalid.gif](/src/archive/enginnr/assorted/xhtmlvalid.gif)
 ![zenbuddhism.png](/src/archive/enginnr/assorted/zenbuddhism.png)
+{ align=center }
 
 ### brands
 
@@ -1033,6 +1039,7 @@ Príomh Ó hÚigínn 是 Dribbble 网站的帐号，在 2013年3月22日 发布�
 ![zeiss2.gif](/src/archive/enginnr/brands/zeiss2.gif)
 ![zippy.gif](/src/archive/enginnr/brands/zippy.gif)
 ![zymic.gif](/src/archive/enginnr/brands/zymic.gif)
+{ align=center }
 
 ### firefox.antipixel
 
@@ -1044,6 +1051,7 @@ Príomh Ó hÚigínn 是 Dribbble 网站的帐号，在 2013年3月22日 发布�
 ![firefoxcc0000.gif](/src/archive/enginnr/firefox.antipixel/firefoxcc0000.gif)
 ![firefoxcc0099.gif](/src/archive/enginnr/firefox.antipixel/firefoxcc0099.gif)
 ![firefoxff6600.gif](/src/archive/enginnr/firefox.antipixel/firefoxff6600.gif)
+{ align=center }
 
 ### twitter
 
@@ -1119,7 +1127,13 @@ Príomh Ó hÚigínn 是 Dribbble 网站的帐号，在 2013年3月22日 发布�
 ![shiny-tweet-this/twitter-02.png](/src/archive/enginnr/twitter/squared-shiny-tweet-this/twitter-02.png)
 ![shiny-tweet-this/twitter-03.png](/src/archive/enginnr/twitter/rounded-shiny-tweet-this/twitter-03.png)
 ![shiny-tweet-this/twitter-03.png](/src/archive/enginnr/twitter/squared-shiny-tweet-this/twitter-03.png)
+{ align=center }
+
+<p>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i], 2); if (!L) alert(%22This page contains no images.%22); })();"><font style="vertical-align: inherit;">放大图像</font></a>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i],.5); if (!L) alert(%22This page contains no images.%22); })();">缩小图像</font></a>
+</p>
 
 ## 备注
 
-有移除不适合大小的图标，以及 .css 文件，还有政治不正确的文件。
+有移除不适合大小的图标、错误文件以及 .css 文件，还有政治不正确的文件。

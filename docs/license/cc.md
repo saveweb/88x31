@@ -23,6 +23,11 @@ CC 的按钮有两个大版本，分别是早期 CC 无印到 2.0 时期，以�
 
 ### 无印到 2.0
 
+<p>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i], 2); if (!L) alert(%22This page contains no images.%22); })();"><font style="vertical-align: inherit;">放大图像</font></a>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i],.5); if (!L) alert(%22This page contains no images.%22); })();">缩小图像</font></a>
+</p>
+
 下面的「IA 最早记录」的时间数据来自：<https://web.archive.org/web/*/http://creativecommons.org/images/public/*>。
 
 | IA 最早记录 | 图片                                | 大小     | 文字（排除带圈的 cc）                       |
@@ -124,25 +129,25 @@ CC 的按钮有两个大版本，分别是早期 CC 无印到 2.0 时期，以�
 
 [http://creativecommons.org/about/downloads/]: https://web.archive.org/web/20081215041054/http://creativecommons.org/about/downloads/
 
-![08-1_1](/src/license/cc/20081215041054/1_1.gif){ .pixel-perfect style="width: 88px; height: 31px" }
-![08-1_2](/src/license/cc/20081215041054/1_2.png){ .pixel-perfect style="width: 88px; height: 31px" }
-![08-1_4](/src/license/cc/20081215041054/1_4.png){ .pixel-perfect style="width: 88px; height: 31px" }
+![08-1_1](/src/license/cc/20081215041054/1_1.gif)
+![08-1_2](/src/license/cc/20081215041054/1_2.png)
+![08-1_4](/src/license/cc/20081215041054/1_4.png)
 ![08-1_5](/src/license/cc/20081215041054/1_5.png)
 ![08-1_6](/src/license/cc/20081215041054/1_6.png)
-![08-2_1](/src/license/cc/20081215041054/2_1.png){ .pixel-perfect style="width: 88px }
-![08-2_2](/src/license/cc/20081215041054/2_2.png){ .pixel-perfect style="width: 88px }
-![08-2_3](/src/license/cc/20081215041054/2_3.png){ .pixel-perfect style="width: 88px }
+![08-2_1](/src/license/cc/20081215041054/2_1.png)
+![08-2_2](/src/license/cc/20081215041054/2_2.png)
+![08-2_3](/src/license/cc/20081215041054/2_3.png)
 ![08-2_4](/src/license/cc/20081215041054/2_4.png)
 ![08-2_5](/src/license/cc/20081215041054/2_5.png)
 ![08-2_6](/src/license/cc/20081215041054/2_6.png)
-![08-3_1](/src/license/cc/20081215041054/3_1.png){ .pixel-perfect style="width: 80px; height: 15px" }
-![08-3_2](/src/license/cc/20081215041054/3_2.png){ .pixel-perfect style="width: 80px; height: 15px" }
-![08-3_3](/src/license/cc/20081215041054/3_3.png){ .pixel-perfect style="width: 80px; height: 15px" }
-![08-3_4](/src/license/cc/20081215041054/3_4.png){ .pixel-perfect style="width: 80px; height: 15px" }
-![08-3_5](/src/license/cc/20081215041054/3_5.png){ .pixel-perfect style="width: 80px; height: 15px" }
-![08-3_6](/src/license/cc/20081215041054/3_6.png){ .pixel-perfect style="width: 80px; height: 15px" }
-![08-4_1](/src/license/cc/20081215041054/4_1.png){ .pixel-perfect style="width: 80px; height: 15px" }
-![08-4_2](/src/license/cc/20081215041054/4_2.png){ .pixel-perfect style="width: 80px; height: 15px" }
+![08-3_1](/src/license/cc/20081215041054/3_1.png)
+![08-3_2](/src/license/cc/20081215041054/3_2.png)
+![08-3_3](/src/license/cc/20081215041054/3_3.png)
+![08-3_4](/src/license/cc/20081215041054/3_4.png)
+![08-3_5](/src/license/cc/20081215041054/3_5.png)
+![08-3_6](/src/license/cc/20081215041054/3_6.png)
+![08-4_1](/src/license/cc/20081215041054/4_1.png)
+![08-4_2](/src/license/cc/20081215041054/4_2.png)
 { align=center }
 
 但页面上提供的下载地址并不是 88 × 31 的大小，而是更大的高清版本。
@@ -168,3 +173,8 @@ CC 的按钮有两个大版本，分别是早期 CC 无印到 2.0 时期，以�
 ![cc0_80x15](/src/license/cc/20110102023053/cc0_80x15.png)
 ![cc0nc_80x15](/src/license/cc/20110102023053/cc0nc_80x15.png)
 { align=center }
+
+<p>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i], 2); if (!L) alert(%22This page contains no images.%22); })();"><font style="vertical-align: inherit;">放大图像</font></a>
+  <a class="md-button md-button--primary" href="javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i],.5); if (!L) alert(%22This page contains no images.%22); })();">缩小图像</font></a>
+</p>
