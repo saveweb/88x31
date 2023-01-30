@@ -1,5 +1,5 @@
 ---
-title: 主页
+title: "88x31 博物馆"
 description:
 published: true
 date: "2023-01-25T17:37:00"
@@ -10,13 +10,15 @@ dateCreated: "2023-01-25T17:37:00"
 
 | 板块                                    |
 | --------------------------------------- |
+| [创作　～ Create](/create/index.md)     |
 | [存档　～ Archive](/archive/index.md)   |
 | [网站　～ Website](/website/index.md)   |
 | [许可证　～ License](/license/index.md) |
+| [展示　～ Status](/status/index.md)     |
 
 ## 这是什么网站
 
-一些旧网站上有者像徽章、按钮一样的矩形按钮，通常是五颜六色，甚至带有动画效果的 GIF 或 PNG 格式的图片。
+一些旧网站上有者像徽章、按钮一样的矩形按钮，通常是五颜六色，甚至带有动画效果的图片。
 
 它有这些名字:
 
@@ -54,7 +56,6 @@ dateCreated: "2023-01-25T17:37:00"
 > mkdocs-video
 > pymdown-extensions
 > ```
-
 
 图片的放大、缩小按钮来自 [Jesse 的 Bookmarks 收集页面][]。
 
