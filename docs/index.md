@@ -8,13 +8,11 @@ dateCreated: "2023-01-25T17:37:00"
 
 ## 板块分类
 
-| 板块   | 文件夹       |
-| ------ | ------------ |
-| 存档   | [/archive][] |
-| 许可证 | [/license][] |
-
-[/archive]: /archive/index.md
-[/license]: /license/index.md
+| 板块                                    |
+| --------------------------------------- |
+| [存档　～ Archive](/archive/index.md)   |
+| [网站　～ Website](/website/index.md)   |
+| [许可证　～ License](/license/index.md) |
 
 ## 这是什么网站
 
@@ -39,19 +37,24 @@ dateCreated: "2023-01-25T17:37:00"
 
 网站使用了 MkDocs 搭建，包括主题 mkdocs-material 等，直接使用的软件、插件如下：
 
-+   mkdocs-abs-rel-plugin
-+   mkdocs-blogging-plugin
-+   mkdocs-callouts
-+   mkdocs-exclude
-+   mkdocs-exclude-search
-+   mkdocs-glightbox
-+   mkdocs-material
-+   mkdocs-material-extensions
-+   mkdocs-minify-plugin
-+   mkdocs-redirects
-+   mkdocs-roamlinks-plugin
-+   mkdocs-video
-+   pymdown-extensions
+> [!abstract]- requirements.txt
+>
+> ```requirements
+> mkdocs-abs-rel-plugin
+> mkdocs-blogging-plugin
+> mkdocs-callouts
+> mkdocs-exclude
+> mkdocs-exclude-search
+> mkdocs-glightbox
+> mkdocs-material
+> mkdocs-material-extensions
+> mkdocs-minify-plugin
+> mkdocs-redirects
+> mkdocs-roamlinks-plugin
+> mkdocs-video
+> pymdown-extensions
+> ```
+
 
 图片的放大、缩小按钮来自 [Jesse 的 Bookmarks 收集页面][]。
 

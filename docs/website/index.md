@@ -1,5 +1,5 @@
 ---
-title: archive
+title: website
 description:
 published: true
 date: "2023-01-26T11:25:00"
@@ -12,12 +12,8 @@ exclude_from_blog: true
 
 ## 简介
 
-archive 即存档，相关物会被收录到此版块（文件夹）。
+website 即网站，相关物会被收录到此版块（文件夹）。
 
 > [!note]+ 最近更新
 >
-> {{ blog_content archive }}
-
-## 其他的存档站
-
-+    [ktwrd/88x31](https://88x31.kate.pet), [GitHub repo](https://github.com/ktwrd/88x31)
+> {{ blog_content website }}

@@ -17,7 +17,7 @@ article [href*="/"]::after {
     -ms-interpolation-mode: nearest-neighbor;
 }
 
-article [href^="http"]:not([href^="https://ggame.gledos.science"]):not([href^="http://ggame.gledos.science"]):not([href^="http://127.0.0.1"]):not([href^="https://raw.githubusercontent.com/gledos/ggame"])::after {
+article [href^="http"]:not([href^="https://saveweb.github.io/88x31"]):not([href^="http://saveweb.github.io/88x31"]):not([href^="http://127.0.0.1"]):not([href^="https://raw.githubusercontent.com/saveweb/88x31"])::after {
     content: '(external link)';
     background-image: url("../src/external-links/out_link.png");
     width: 1em;

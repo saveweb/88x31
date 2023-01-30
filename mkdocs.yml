@@ -170,6 +170,11 @@ plugins:
       - archive
       size: 50
       template: overrides/custom-blog.html
+    - name: website
+      dirs:
+      - website
+      size: 50
+      template: overrides/custom-blog.html
 - glightbox:
     touchNavigation: true
     loop: false
