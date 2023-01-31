@@ -8,7 +8,7 @@ dateCreated: "2023-01-25T17:37:00"
 
 ## 板块分类
 
-|                                               |
+| 全部板块                                      |
 | --------------------------------------------- |
 | [创作　～ Create](/create/index.md)           |
 | [存档　～ Archive](/archive/index.md)         |
