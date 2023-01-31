@@ -1,5 +1,5 @@
 ---
-title: "88x31 博物馆"
+title: "主页"
 description:
 published: true
 date: "2023-01-25T17:37:00"
@@ -8,13 +8,14 @@ dateCreated: "2023-01-25T17:37:00"
 
 ## 板块分类
 
-| 板块                                    |
-| --------------------------------------- |
-| [创作　～ Create](/create/index.md)     |
-| [存档　～ Archive](/archive/index.md)   |
-| [网站　～ Website](/website/index.md)   |
-| [许可证　～ License](/license/index.md) |
-| [展示　～ Status](/status/index.md)     |
+|                                               |
+| --------------------------------------------- |
+| [创作　～ Create](/create/index.md)           |
+| [存档　～ Archive](/archive/index.md)         |
+| [广告　～ Advertising](/advertising/index.md) |
+| [网站　～ Website](/website/index.md)         |
+| [许可证　～ License](/license/index.md)       |
+| [展示　～ Status](/status/index.md)           |
 
 ## 这是什么网站
 
