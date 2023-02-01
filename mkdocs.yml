@@ -213,6 +213,7 @@ extra_css:
 - "css/footnotes.css"          # 脚注 CSS
 - "css/base.css"               # 格式处理
 - "css/custom_admonitions.css" # 自定义 Admonitions
+- "css/timeline.css"           # Álvaro 的 Creative Timeline
 
 # extra_javascript:
 # - "js/pixel-perfect.js"        # greggman 的完美像素，似乎有些冲突，所以先不使用……

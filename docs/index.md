@@ -36,6 +36,74 @@ dateCreated: "2023-01-25T17:37:00"
 
 此网站收集关于此类型图片的资料，并不仅局限于 88 × 31 的大小。
 
+## 88x31 简史
+
+<section id=timeline>
+    <div class="paulbarker-card-wrapper">
+        <div class="paulbarker-card paulbarker-card--step1">
+            <div class="head">
+                <div class="number-box">
+                    <span>01</span>
+                </div>
+                <h2><span class="small">1996-10-20</span> Netscape</h2>
+            </div>
+            <div class="body">
+                <p>Netscape Now 按钮出现。</p>
+                <br>
+                <img src="src/index/timeline/Netscape_Now_now20_button.gif" alt="Graphic">
+            </div>
+        </div>
+        <div class="paulbarker-card paulbarker-card--step2">
+            <div class="head">
+                <div class="number-box">
+                    <span>02</span>
+                </div>
+                <h2><span class="small">1996-10-22</span> Geocities</h2>
+            </div>
+            <div class="body">
+                <p>Geocities 开始使用使用 88x31 作为链接。</p>
+                <img src="src/index/timeline/geocities_proxyellow.gif" alt="Graphic">
+            </div>
+        </div>
+        <div class="paulbarker-card paulbarker-card--step3">
+            <div class="head">
+                <div class="number-box">
+                    <span>03</span>
+                </div>
+                <h2><span class="small">1998-02-02</span> W3C</h2>
+            </div>
+            <div class="body">
+                <p>W3C 网站的底部出现 Validator Logos。</p>
+                <img src="src/index/timeline/W3C_Validator_Logos_vh40.png" alt="Graphic">
+            </div>
+        </div>
+        <div class="paulbarker-card paulbarker-card--step4">
+            <div class="head">
+                <div class="number-box">
+                    <span>04</span>
+                </div>
+                <h2><span class="small">2002</span> 待续</h2>
+            </div>
+            <div class="body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                <img src="http://placehold.it/1000x500" alt="Graphic">
+            </div>
+        </div>
+        <div class="paulbarker-card paulbarker-card--step5">
+            <div class="head">
+                <div class="number-box">
+                    <span>05</span>
+                </div>
+                <h2><span class="small">Subtitle</span> 待续</h2>
+            </div>
+            <div class="body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                <img src="http://placehold.it/1000x500" alt="Graphic">
+            </div>
+        </div>
+    </div>
+</section>
+
 ## 借物表
 
 网站使用了 MkDocs 搭建，包括主题 mkdocs-material 等，直接使用的软件、插件如下：
