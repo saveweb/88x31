@@ -82,11 +82,11 @@ dateCreated: "2023-01-25T17:37:00"
                 <div class="number-box">
                     <span>04</span>
                 </div>
-                <h2><span class="small">2002</span> 待续</h2>
+                <h2><span class="small">2002</span> Interactive Advertising Bureau</h2>
             </div>
             <div class="body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
-                <img src="http://placehold.it/1000x500" alt="Graphic">
+                <p>美国互动广告局 (Interactive Advertising Bureau) 也将 88x31 列为了一种标准广告横幅大小，名为 Micro Bar。</p>
+                <!-- <img src="http://placehold.it/1000x500" alt="Graphic"> -->
             </div>
         </div>
         <div class="paulbarker-card paulbarker-card--step5">
@@ -94,11 +94,11 @@ dateCreated: "2023-01-25T17:37:00"
                 <div class="number-box">
                     <span>05</span>
                 </div>
-                <h2><span class="small">Subtitle</span> 待续</h2>
+                <h2><span class="small">未知时间</span> 消失</h2>
             </div>
             <div class="body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
-                <img src="http://placehold.it/1000x500" alt="Graphic">
+                <p>Geocities 在 2009 年关闭，使用 88x31 的网站越来越少，其他的社交平台基本又不支持 88x31 大小的名片，所以逐渐消失。</p>
+                <!-- <img src="http://placehold.it/1000x500" alt="Graphic"> -->
             </div>
         </div>
     </div>
