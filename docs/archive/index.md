@@ -27,3 +27,4 @@ Roly 在 GitHub 分享了有着超过 5000 个 88x31 大小图片的仓库 [ro1y
 ## 其他的存档站
 
 +    [ktwrd/88x31](https://88x31.kate.pet), [GitHub repo](https://github.com/ktwrd/88x31) 较少，但网站设计不错
++    <https://archive.org/details/old-images-88x31-and-more/demoimg/>

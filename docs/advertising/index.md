@@ -85,6 +85,7 @@ date: 1234-01-01
 ![HBOshop](/src/advertising/Geno_Prussakov/HBOshop.jpg){ data-description=".custom-Geno_Prussakov" }
 ![Kaplan](/src/advertising/Geno_Prussakov/Kaplan.jpg){ data-description=".custom-Geno_Prussakov" }
 ![StreamSend](/src/advertising/Geno_Prussakov/StreamSend.jpg){ data-description=".custom-Geno_Prussakov" }
+![webmasterhome](/src/advertising/webmasterhome/logolink88.gif){ data-description=".custom-webmasterhome" }
 { align=center }
 
 [:material-magnify-minus:](javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i],.5); if (!L) alert(%22This page contains no images.%22); })();)
@@ -151,3 +152,11 @@ date: 2022-08-05
 ```
 </div>
 <div class="glightbox-desc custom-Geno_Prussakov" markdown="block">[https://www.amnavigator.com/blog/2013/08/01/examples-of-inspiring-micro-bar-banner-ads-for-affiliates/](https://www.amnavigator.com/blog/2013/08/01/examples-of-inspiring-micro-bar-banner-ads-for-affiliates/)</div>
+<div class="glightbox-desc custom-webmasterhome" markdown="block">
+[https://web.archive.org/web/20060810223551/http://www.webmasterhome.cn/link/](https://web.archive.org/web/20060810223551/http://www.webmasterhome.cn/link/)
+
+```yaml
+title: 中国站长之家
+date: 2007-
+```
+</div>
