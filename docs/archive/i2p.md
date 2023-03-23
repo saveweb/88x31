@@ -55,6 +55,7 @@ dateCreated: "2023-02-14T23:37:00"
 ![nullchan.i2p](/src/archive/Welcome_to_I2P/nullchan.png){ data-description=".custom-38" }
 ![tube.i2p](/src/archive/Welcome_to_I2P/tube.jpg){ data-description=".custom-39" }
 ![lm.i2p](/src/archive/Welcome_to_I2P/lm.png){ data-description=".custom-40" }
+![antebeot.i2p](/src/archive/Welcome_to_I2P/antebeot.gif){ data-description=".custom-41" width="88px" }
 { align=center }
 
 [:material-magnify-minus:](javascript:(function(){ function zoomImage(image, amt) { if(image.initialHeight == null) { image.initialHeight=image.height; image.initialWidth=image.width; image.scalingFactor=1; } image.scalingFactor*=amt; image.width=image.scalingFactor*image.initialWidth; image.height=image.scalingFactor*image.initialHeight; } var i,L=document.images.length; for (i=0;i<L;++i) zoomImage(document.images[i],.5); if (!L) alert(%22This page contains no images.%22); })();)
@@ -263,5 +264,10 @@ title: IncogTube в I2P
 <div class="glightbox-desc custom-40" markdown="block"><http://lm.i2p><br>
 ```yaml
 title: Сервис покупки Монеро в местной валюте
+```
+</div>
+<div class="glightbox-desc custom-41" markdown="block"><http://antebeot.i2p><br>
+```yaml
+title: Проект Antebeot - крипто-пул
 ```
 </div>
